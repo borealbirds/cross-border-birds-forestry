@@ -13,7 +13,7 @@ baseurl: /cross-border-birds-forestry
 url: https://borealbirds.github.io
 
 ## Logo is a small image that gets displayed in the left corner of the navigation
-# logo: https://borealbirds.github.io/logo.svg
+logo: https://borealbirds.github.io/logo.svg
 
 ## Top navigation: include the name and link for each tab here
 navigation:
