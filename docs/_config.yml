@@ -1,0 +1,41 @@
+## Mini Website Template
+
+## Title of the website, this will be used in the navigation and meta
+title: "Cross-border forestry for birds project"
+## Description to be used in the meta info of the pages
+description: "A co-prduced research project to quantify effects of forest management on bird populations in the cross-border Lake Superior region (Bird Conservation Region 12)"
+## Author, this goes into the footer of the pages
+author: "Boreal Avian Modelling Project"
+
+## Base URL is the repository name with a leading slash
+baseurl: /cross-border-birds-forestry
+## URL is the root domain/subdomain
+url: https://borealbirds.github.io
+
+## Logo is a small image that gets displayed in the left corner of the navigation
+# logo: https://borealbirds.github.io/logo.svg
+
+## Top navigation: include the name and link for each tab here
+navigation:
+  - name: Home
+    link: /
+  - name: Forest Management
+    link: /forest-management/
+  - name: Ecology
+    link: /ecology/
+  - name: Contact
+    link: https://borealbirds.ualberta.ca/
+
+## No need to touch things here unless you know what you are doing
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE.md"]
+timezone: America/Edmonton
+encoding: UTF-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
