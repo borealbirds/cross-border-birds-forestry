@@ -10,4 +10,5 @@ To achieve our goal, we have brought together a great steering committee. This c
 <img src = "docs/gl_study_area.png">
 
 
-![](D:/projects/cross_border_birds_foresty/cross-border-birds-forestry/docs/gl_study_area.png)
+
+({{ site.baseurl }}/gl_study_area.png)
