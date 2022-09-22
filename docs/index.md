@@ -11,4 +11,4 @@ To achieve our goal, we have brought together a great steering committee. This c
 
 
 
-![]({{ site.baseurl }}/gl_study_area.png)
+![Study area map]({{ site.baseurl }}/gl_study_area.png)
