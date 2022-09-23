@@ -7,8 +7,5 @@ The Sustainable Forestry Initiative (SFI) has funded the Boreal Avian Modelling 
 
 To achieve our goal, we have brought together a great steering committee. This collaboration aims to improve our understanding of SFI’s best management practices, as well as challenges and opportunities in managed forests in different regions with a diversity of governing bodies. 
 
-<img src = "docs/gl_study_area.png">
-
-
 
 ![Study area map]({{ site.baseurl }}/gl_study_area.png)

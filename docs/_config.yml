@@ -19,10 +19,12 @@ logo: https://borealbirds.github.io/logo.svg
 navigation:
   - name: Home
     link: /
-  - name: Forest Management
-    link: /forest-management/
   - name: Ecology
     link: /ecology/
+  - name: Forest Management
+    link: /forest-management/
+  - name: Co-production Framework
+    link: /co-production/
   - name: Contact
     link: https://borealbirds.ualberta.ca/
 
